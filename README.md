@@ -42,7 +42,7 @@ In Countdown mode, when the timer reaches zero, a buzzer is activated to alert t
 
 ## Demo Video
 
-[Proteus Simulation](https://drive.google.com/file/d/1vLMy9-rVtDjLcr0inuOKUk3VrSZu9kjz/view?usp=drive_link)
+[Proteus Simulation](https://drive.google.com/file/d/1jBS3ZqjYdEvokR3NrPzsHhy5-eCkFhhm/view?usp=sharing)
 ## License
 
 This project is for educational and non-commercial use.
