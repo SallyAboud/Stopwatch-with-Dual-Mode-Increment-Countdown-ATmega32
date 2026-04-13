@@ -1,7 +1,3 @@
-Here is your stopwatch README written in the same style and structure:
-
----
-
 # Dual Mode Stopwatch
 
 This project presents the design and implementation of a dual-mode digital stopwatch using the ATmega32 microcontroller and six multiplexed seven-segment displays. It supports both Increment (Count-Up) and Countdown (Count-Down) modes, making it suitable for timing and embedded systems learning applications.
